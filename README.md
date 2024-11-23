@@ -7,8 +7,8 @@ Follow these instructions to run the Hybrid Distributed File System -
   
 
 1. Run following commands on each of the node - 
-git clone git@gitlab.engr.illinois.edu:abandal2/g73_mp2.git
-and checkout to branch mp3-demo
+git clone [git@gitlab.engr.illinois.edu:abandal2/g73_mp2.git](https://github.com/RahulSethi070801/Hybrid-Distributed-File-System.git)
+and checkout master
 2. Build the main.cpp program on all machines on your distributed system using
 	make
 3. Daemon executables would be build with g++ compiler
